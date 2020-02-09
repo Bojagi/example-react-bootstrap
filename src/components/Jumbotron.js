@@ -1,4 +1,4 @@
-// @ component
+// @component
 
 import Jumbotron from 'react-bootstrap/Jumbotron';
 

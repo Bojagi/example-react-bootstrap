@@ -1,4 +1,4 @@
-// @ component
+// @component
 
 import Toast from 'react-bootstrap/Toast';
 
