@@ -1,2 +1,2 @@
 # Example bojagi project using react-bootstrap
-Demo of React Boostrap setup with Bojagi
+Demo of React Bootstrap setup with Bojagi
