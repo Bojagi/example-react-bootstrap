@@ -831,10 +831,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bojagi/cli@^0.11.0":
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/@bojagi/cli/-/cli-0.11.0.tgz#f6fb59f1335c5644677151677c202e094fb7aee6"
-  integrity sha512-bTNqxVPBzVtZrcp/0o21WpAMqMGBBAry9bxmzLO7mN+PJsBKsZ63ub6SPQMECRnFWSVHAlyNxeRgWQ60v9W4XQ==
+"@bojagi/cli@^0.11.1":
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/@bojagi/cli/-/cli-0.11.1.tgz#0ed36629a4bf2eb109a7b5c7d4a54e627f149da8"
+  integrity sha512-ptMo63KcfGiAYRRUDWJqnulmvyCAy5Qa88ekzsuwlo/bRFoIfJVT54SrjgSZ2ZMU5BOgnSTM7SodNuTQpwasbQ==
   dependencies:
     "@bojagi/types" "^0.9.0"
     adm-zip "^0.4.13"
