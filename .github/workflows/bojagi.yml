@@ -31,4 +31,6 @@ jobs:
     - name: Bojagi
       run: BOJAGI_SECRET=${{ secrets.BOJAGI_SECRET }} yarn bojagi deploy
 
+    - name: Bojagi Dev
+      run: BOJAGI_API_URL=https://upload.dev.bojagi.io BOJAGI_SECRET=${{ secrets.DEV_BOJAGI_SECRET }} yarn bojagi deploy
 
